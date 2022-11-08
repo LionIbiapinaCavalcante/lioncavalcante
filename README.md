@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvo alguns projetos pessoais
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portifólio]()
+- 👨‍💻 Todos os meus projetos estão disponíveis no   meu [:construction: Portifólio em construção]()
 
 <br><br>
 
